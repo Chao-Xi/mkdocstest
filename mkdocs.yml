@@ -1,0 +1,11 @@
+site_name: Jacob MKdoc Test
+nav:
+  - 主页: "index.md"
+  - 关于: "about.md"
+  - 自动化: "devops.md"
+theme: material
+repo_url: https://github.com/Chao-Xi/mkdocstest.git
+repo_name: "Opening on Github"
+site_description: "这是一个mkdocs的demo测试知识网站"
+site_author: "Jacob Xi"
+copyright: "1994 - 2020"
