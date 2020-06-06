@@ -14,7 +14,7 @@ repo_name: "Opening on Github"
 theme: 
   name: 'material'
   include_sidebar: true
-  logo: assets/images/jacob_logo.jpg
+  logo: assets/images/jacob.jpg
   feature:
     tabs: false
   palette:
