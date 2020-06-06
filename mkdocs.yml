@@ -6,13 +6,11 @@ copyright: "Copyright &copy; 2016-2020 Jacob Xi"
 plugins:
   - search # necessary for search to work
   - awesome-pages
-
-title: "MKdoc Test"
-
 nav:
-  - 主页: "index.md"
-  - 关于: "about.md"
-  - 自动化: "devops.md"
+  - 'Welcome': "index.md"
+  - 'Getting Started':
+    - 关于: "about.md"
+    - 自动化: "devops.md"
 
 repo_url: https://github.com/Chao-Xi/mkdocstest.git
 repo_name: "Opening on Github"
