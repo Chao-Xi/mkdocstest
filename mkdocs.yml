@@ -18,12 +18,6 @@ theme:
   logo: assets/images/jacob_logo.jpg
   feature:
     tabs: false
-  palette:
-    primary: 'cyan'
-    accent: 'cyan'
-  i18n:
-    prev: 'Previous'
-    next: 'Next'
 
 
 
