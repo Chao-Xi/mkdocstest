@@ -13,17 +13,16 @@ repo_name: "Opening on Github"
 
 theme: 
   name: 'material'
-  custom_dir: 'theme'
   include_sidebar: true
   logo: assets/images/jacob_logo.jpg
-  # feature:
-  #   tabs: false
-  # palette:
-  #   primary: 'cyan'
-  #   accent: 'cyan'
-  # i18n:
-  #   prev: 'Previous'
-  #   next: 'Next'
+  feature:
+    tabs: false
+  palette:
+    primary: 'cyan'
+    accent: 'cyan'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
 
 
 
