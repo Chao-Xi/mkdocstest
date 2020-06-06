@@ -19,8 +19,8 @@ theme:
   feature:
     tabs: false
   palette:
-    primary: 'amber'
-    accent: 'amber'
+    primary: 'deep purple'
+    accent: 'deep purple'
   i18n:
     prev: 'Previous'
     next: 'Next'
