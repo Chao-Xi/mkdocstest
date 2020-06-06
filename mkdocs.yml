@@ -12,14 +12,15 @@ repo_url: https://github.com/Chao-Xi/mkdocstest.git
 repo_name: "Opening on Github"
 
 theme: 
+  language: zh
   name: 'material'
   include_sidebar: true
-  logo: assets/images/jacob.jpg
+  logo: 'images/logo.png'
   feature:
     tabs: false
   palette:
-    primary: 'cyan'
-    accent: 'cyan'
+    primary: 'amber'
+    accent: 'amber'
   i18n:
     prev: 'Previous'
     next: 'Next'
