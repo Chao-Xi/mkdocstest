@@ -16,8 +16,14 @@ theme:
   custom_dir: 'theme'
   include_sidebar: true
   logo: assets/images/jacob_logo.jpg
-  feature:
-    tabs: false
+  # feature:
+  #   tabs: false
+  # palette:
+  #   primary: 'cyan'
+  #   accent: 'cyan'
+  # i18n:
+  #   prev: 'Previous'
+  #   next: 'Next'
 
 
 
