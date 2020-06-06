@@ -9,8 +9,8 @@ plugins:
 nav:
   - 'Welcome': "index.md"
   - 'Getting Started':
-    - 关于: "about.md"
-    - 自动化: "devops.md"
+    - '关于': 'about.md'
+    - '自动化': 'devops.md'
 
 repo_url: https://github.com/Chao-Xi/mkdocstest.git
 repo_name: "Opening on Github"
@@ -20,6 +20,7 @@ theme:
   name: 'material'
   include_sidebar: true
   logo: 'images/logo.png'
+  favicon: 'images/logo.png'
   feature:
     tabs: false
   palette:
