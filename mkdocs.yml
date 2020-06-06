@@ -3,6 +3,10 @@ site_description: "这是一个mkdocs的demo测试知识网站"
 site_author: "Jacob Xi"
 copyright: "Copyright &copy; 2016-2020 Jacob Xi"
 
+plugins:
+  - search # necessary for search to work
+  - awesome-pages
+
 nav:
   - 主页: "index.md"
   - 关于: "about.md"
